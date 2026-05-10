@@ -52,12 +52,6 @@
 bash <(curl -fsSL https://raw.githubusercontent.com/holodgolod745-max/vpn-panel8/main/install.sh)
 ```
 
-Или скачать и запустить:
-
-```wget https://raw.githubusercontent.com/holodgolod745-max/vpn-panel8/main/install.sh
-bash install.sh
-```
-
 > Требуется **root** и **Ubuntu 20.04 / 22.04 / 24.04** или **Debian 11 / 12**
 
 ---
