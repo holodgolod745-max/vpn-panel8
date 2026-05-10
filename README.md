@@ -48,14 +48,13 @@
 
 Одна команда — всё остальное скрипт делает сам:
 
-```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/install.sh)
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/holodgolod745-max/vpn-panel8/main/install.sh)
 ```
 
 Или скачать и запустить:
 
-```bash
-wget https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/install.sh
+```wget https://raw.githubusercontent.com/holodgolod745-max/vpn-panel8/main/install.sh
 bash install.sh
 ```
 
