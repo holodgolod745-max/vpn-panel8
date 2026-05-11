@@ -26,7 +26,7 @@ VMess · VLESS · Trojan · Shadowsocks · WireGuard · Reality
 ## 🚀 Быстрая установка
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USER/feduk-panel/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/holodgolod745-max/vpn-panel8/main/install.sh)
 ```
 
 > Запускать от `root`. Установка занимает ~3-5 минут.
